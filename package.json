@@ -1,0 +1,27 @@
+{
+  "name": "assurance",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --watch index.ts -e ts index.ts",
+    "start": "nodemon --watch assurance.ts -e ts assurance.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.13.13",
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ta-any/assurance-promise-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ta-any/assurance-promise-/issues"
+  },
+  "homepage": "https://github.com/ta-any/assurance-promise-#readme"
+}
