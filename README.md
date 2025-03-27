@@ -1,1 +1,3 @@
-# assurance-promise-
+# assurance(promise)
+
+analogy new Promise() JS
